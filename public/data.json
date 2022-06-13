@@ -1,0 +1,37 @@
+[
+    {
+        "img": "../src/images/ass12.PNG",
+        "name": "SpareParts.com",
+        "live": "https://manufacturer-website-f7716.web.app/",
+        "gitc": "https://github.com/PROTTASAKARIM/assignment12--manufacturer-website-client-side",
+        "gits": "https://github.com/PROTTASAKARIM/assignment12--manufacturer-website-server-side"
+    },
+    {
+        "img": "../src/images/ass11.PNG",
+        "name": "SmartPhone WareHouse",
+        "live": "https://smartphn-warehouse.web.app/",
+        "gitc": "https://github.com/PROTTASAKARIM/assignment11-warehouse-management-client",
+        "gits": "https://github.com/PROTTASAKARIM/assignment11-warehouse-management-server"
+    },
+    {
+        "img": "../src/images/ass10.PNG",
+        "name": "Dreamy Photographer",
+        "live": "https://dreamy-photographer.web.app/",
+        "gitc": "https://github.com/PROTTASAKARIM/assignment10-independent-service-provaider",
+        "gits": ""
+    },
+    {
+        "img": "../src/images/ass9.PNG",
+        "name": "Book Reviews",
+        "live": "https://bookreviewassignmentnine.netlify.app/",
+        "gitc": "https://github.com/PROTTASAKARIM/assignment9-product-analysis",
+        "gits": ""
+    },
+    {
+        "img": "../src/images/ass8.PNG",
+        "name": "Book Store",
+        "live": "https://bookstorewebsiteassignment.netlify.app/",
+        "gitc": "https://github.com/PROTTASAKARIM/assignment8-lucky-one",
+        "gits": ""
+    }
+]
